@@ -16,12 +16,12 @@ Melalui repository ini saya mendokumentasikan proses pembelajaran, eksplorasi da
 | Pertemuan | Topik | Notebook |
 |-----------|--------|----------|
 | 1 | Pengenalan Data Science | [Notebook](Pertemuan_1/Pertemuan_1.ipynb) |
-| 2 | Python Dasar | [Notebook](Pertemuan_2/Pertemuan_2.ipynb) |
-| 3 | NumPy | [Notebook](Pertemuan_3/Pertemuan_3.ipynb) |
-| 4 | Pandas | [Notebook](Pertemuan_4/Pertemuan_4.ipynb) |
+| 2 | Struktur Data Python, NumPy & Pandas | [Notebook](Pertemuan_2/Pertemuan_2.ipynb) |
+| 3 | Data Cleaning: Missing, Outlier & Ekstraksi | [Notebook](Pertemuan_3/Pertemuan_3.ipynb) |
+| 4 | Statistika Dasar & Analisis Data | [Notebook](Pertemuan_4/Pertemuan_4.ipynb) |
 | 5 | Visualisasi Data | [Notebook](Pertemuan_5/Pertemuan_5.ipynb) |
-| 6 | Machine Learning Dasar | [Notebook](Pertemuan_6/Pertemuan_6.ipynb) |
-| 7 | Evaluasi Model | [Notebook](Pertemuan_7/Pertemuan_7.ipynb) |
+| 6 | Persiapan Data | [Notebook](Pertemuan_6/Pertemuan_6.ipynb) |
+| 7 | Pengantar Machine Learning: Regresi Dasar | [Notebook](Pertemuan_7/Pertemuan_7.ipynb) |
 
 ## Tools dan Library yang Digunakan
 
