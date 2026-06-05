@@ -17,15 +17,16 @@ Pertemuan	Topik	Link Notebook
 6	Topik Pertemuan 6	Notebook
 7	Topik Pertemuan 7	Notebook
 
-**Tools dan Library yang Digunakan**
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Google Colab
+## Tools dan Library yang Digunakan
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab
 
 **Cara Menjalankan**
 Clone repository ini:
