@@ -30,16 +30,6 @@ Melalui repository ini saya mendokumentasikan proses pembelajaran, eksplorasi da
 - Pandas
 - NumPy
 
-
-## Cara Menjalankan
-- Clone repository ini:
-- git clone https://github.com/username/repository.git
-- Masuk ke folder repository:
-- cd repository
-- Jalankan Jupyter Notebook:
-- jupyter notebook
-- Buka notebook yang ingin dijalankan.
-
 ## Kesimpulan Perjalanan Belajar
 Selama tujuh pertemuan pertama mata kuliah Data Science, saya telah mempelajari dasar-dasar pengolahan data menggunakan Python, manipulasi data dengan Pandas, perhitungan numerik menggunakan NumPy, visualisasi data menggunakan Matplotlib dan Seaborn, serta pengenalan machine learning menggunakan Scikit-learn.
 Melalui praktikum yang dilakukan, saya memperoleh pemahaman yang lebih baik mengenai proses analisis data mulai dari pengumpulan, pembersihan, eksplorasi, visualisasi, hingga interpretasi hasil. Repository ini menjadi dokumentasi perkembangan kemampuan saya dalam bidang Data Science.
