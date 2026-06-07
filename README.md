@@ -15,7 +15,7 @@ Melalui repository ini saya mendokumentasikan proses pembelajaran, eksplorasi da
 
 | Pertemuan | Topik | Notebook |
 |-----------|--------|----------|
-| 1 | Pengenalan Data Science | [Notebook](Pertemuan_1_-_Pengenala_Data_Science.ipynb) |
+| 1 | Pengenalan Data Science | [Notebook](Pertemuan_1/Pertemuan_1.ipynb) |
 | 2 | Struktur Data Python, NumPy & Pandas | [Notebook](Pertemuan_2_-_Struktur_Data_Python,_NumPy_&_Pandas.ipynb) |
 | 3 | Data Cleaning: Missing, Outlier & Ekstraksi | [Notebook](Pertemuan_3/Pertemuan_3.ipynb) |
 | 4 | Statistika Dasar & Analisis Data | [Notebook](Pertemuan_4/Pertemuan_4.ipynb) |
