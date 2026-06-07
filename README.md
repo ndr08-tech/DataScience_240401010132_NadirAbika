@@ -29,10 +29,7 @@ Melalui repository ini saya mendokumentasikan proses pembelajaran, eksplorasi da
 - Jupyter Notebook
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Google Colab
+
 
 ## Cara Menjalankan
 - Clone repository ini:
